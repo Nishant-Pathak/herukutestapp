@@ -6,7 +6,7 @@ herukutestapp
 
 check project on:
 
-http://stormy-refuge-8095.herokuapp.com/
+http://herukutestapp.herokuapp.com/
 
 ##################
 
